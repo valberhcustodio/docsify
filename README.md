@@ -8,7 +8,7 @@
 [![build][build-img]][build-url]
 
 
-[![versão][build-img]]
+![versão][build-img]
 
 > The best Datatable for Vue.js 2.x which never sucks  
 > `npm i -S vue2-datatable-component`
