@@ -33,4 +33,4 @@
 [npm-dl-img]: https://img.shields.io/npm/dm/vue2-datatable-component.svg
 [build-img]: https://travis-ci.org/OneWayTech/vue2-datatable.svg?branch=master
 [build-url]: https://travis-ci.org/OneWayTech/vue2-datatable
-[nori-img]: https://goo.gl/41dm4D
+[versao-img]: https://img.shields.io/badge/vers%C3%A3o%20est%C3%A1vel-1.19.2.0-green.svg
