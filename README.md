@@ -3,7 +3,7 @@
 > An awesome project.
 
 
-[![npm version][npm-v-img]][npm-url]
+[![npm version][nori-img]][npm-url]
 [![npm download][npm-dl-img]][npm-url]
 [![build][build-img]][build-url]
 
@@ -33,3 +33,4 @@
 [npm-dl-img]: https://img.shields.io/npm/dm/vue2-datatable-component.svg
 [build-img]: https://travis-ci.org/OneWayTech/vue2-datatable.svg?branch=master
 [build-url]: https://travis-ci.org/OneWayTech/vue2-datatable
+[nori-img]: https://goo.gl/41dm4D
